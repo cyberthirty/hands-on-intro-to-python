@@ -26,8 +26,7 @@ Navigate through the lessons at your own pace. Each lesson has a README for theo
 
 ## How to Contribute
 
-I welcome contributions! If you have ideas, bug reports, or lessons you'd like to add, please see how to contribute below or send me a message.
-
+I welcome contributions! If you have ideas, bug reports, or lessons you'd like to add, please see how to contribute below or send me a message. Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 ## Code of Conduct
 
 I'm committed to providing a welcoming and inclusive experience for everyone. Please read the Code of Conduct before participating. Please read the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details.
