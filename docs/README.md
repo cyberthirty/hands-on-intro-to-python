@@ -30,10 +30,11 @@ I welcome contributions! If you have ideas, bug reports, or lessons you'd like t
 
 ## Code of Conduct
 
-I'm committed to providing a welcoming and inclusive experience for everyone. Please read the Code of Conduct before participating.
+I'm committed to providing a welcoming and inclusive experience for everyone. Please read the Code of Conduct before participating. Please read the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details.
+
 
 ## Contact
 
-Questions or feedback? Contact with me on LinkedIn: [Lucky Ngabuh](https://www.linkedin.com/in/cyber30).
+Questions or feedback? Contact with me on LinkedIn: [Lucky Ngabuh](https://www.linkedin.com/in/cyber30) ) and on Twitter: [@Cyber30](https://twitter.com/cyberthirty30).
 
 Thank you for exploring "Hands-On Intro to Python."
